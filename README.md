@@ -3,7 +3,7 @@ This is simplest vue-vuex boilerplate for [plate-cli](https://github.com/haegul/
 
 ## Installation
 ```
-$ sudo npm install plate-cli -g && plate vue-vuex -d my-project 
+$ sudo npm install plate-cli -g && plate vue-vuex -d my-plate
 ```
 
 ## Stack
